@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "58e842295ab5a9e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "d865ee8b4552d94f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ceb0107aa38bb27",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "WEB/theme-generator.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "theme-generator"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dc14ec8de50f8364",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd3ed2579a716b0a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8cb9147a9018cdab",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "989ab0e0231fd4ed",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "287e6cc210385055",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b99b29898909b3c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd6d618a30e6e0fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e617e86d6b6e3064",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "WEB/theme-generator.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for theme-generator"
+            }
+          },
+          {
+            "id": "b65560891307d826",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "WEB/theme-generator.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from theme-generator"
+            }
+          },
+          {
+            "id": "138220d531b57bc7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b148d70f5c9856d7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "WEB/theme-generator.pdf",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of theme-generator"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "0ceb0107aa38bb27",
+  "lastOpenFiles": [
+    "OSINT/holiday_trip.md",
+    "OSINT/ancient_house.pdf",
+    "OSINT/prison.pdf",
+    "OSINT/parting_ways.pdf",
+    "OSINT/holiday_trip.pdf",
+    "OSINT/**Holiday Trip**.pdf",
+    "WEB/theme-generator.pdf",
+    "WEB/random-gallery.pdf",
+    "WEB/money.pdf",
+    "WEB/dot-private-key.pdf",
+    "PWN/fini.md",
+    "PWN/sigdance.pdf"
+  ]
+}
